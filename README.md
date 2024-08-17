@@ -1,2 +1,2 @@
 # canva
-Canva Projeleri
+Deneme Canva projeleri.
